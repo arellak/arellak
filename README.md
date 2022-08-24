@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**arellak/arellak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, my name is Marcel and I'm 20 years old. Currently I'm studying Media Computer Science at the South Westphalia University of Applied Sciences.<br>
+My main focus in programming are computer games, how the math behind all our beloved games work and how to implement them myself. Since I don't hate myself, I use a library called [Raylib](https://www.raylib.com/) which is very useful and still pretty fast.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on
+      - [Terraria Clone using Raylib](https://github.com/arellak/TerrariaClone)
+- ✨ Main/Strong languages: Java, C++
+- 📜 Other languages I'm familiar with: NodeJS
+- 🌱 I'm currently learning C++, Norwegian and a bit of Japanese
+- 💬 Other projects I really loved working on:
+  - [The idea of creating a "World of Warcraft for Minecraft"](https://github.com/NimbleServer/NimbleServerPlugins)
+  - [Create Graphs by including a CSV file using ImGui](https://github.com/arellak/CSVGraph)
+  - [A "BankManagementSystem" aka I was bored and wanted to learn some C](https://github.com/arellak/BankManagementSystem)
+  - [Creating basic GUI elements using Raylib and C++](https://github.com/arellak/NimbleGUI)
+  - [My own implementation of the famous game Flappy Bird - using raylib](https://github.com/arellak/RaylibFlappyBird)
+- 📫 How to reach me:
+  - E-Mail: [nimble0@protonmail.com](mailto:nimble0@protonmail.com)
+  - Discord: arellak#0295
+  - Telegram: [@arellak](https://t.me/arellak)
+  - Twitter: [@4rell4k](https://twitter.com/4rell4k)
+  - StackOverflow: [nimble](https://stackoverflow.com/users/11818002/nimble)
+ 
+<sub>You can contact me in German (native language) or English ([C2-Level](https://www.efset.org/cefr/c2/))</sub>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arellak&label=Profile%20views&color=0e75b6&style=flat" alt="arellak" /> </p>
