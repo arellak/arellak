@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey, my name is Marcel and I'm 20 years old. Currently I'm studying Media Computer Science at the South Westphalia University of Applied Sciences.<br>
+My name is Marcel and I'm 20 years old. Currently I'm studying Media Computer Science at the South Westphalia University of Applied Sciences.<br>
 My main focus in programming are computer games, how the math behind all our beloved games work and how to implement them myself. Since I don't hate myself, I use a library called [Raylib](https://www.raylib.com/) which is very useful and still pretty fast.
 
 
