@@ -25,4 +25,6 @@ My main focus in programming are computer games, how the math behind all our bel
  
 <sub>You can contact me in German (native language) or English ([C2-Level](https://www.efset.org/cefr/c2/))</sub>
 
+<p><img width="65%" height="65%" align="center" src="https://raw.githubusercontent.com/arellak/arellak/master/profile-3d-contrib/profile-south-season.svg" /</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arellak&label=Profile%20views&color=0e75b6&style=flat" alt="arellak" /> </p>
