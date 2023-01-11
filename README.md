@@ -21,7 +21,7 @@ My main focus in programming are computer games, how the math behind all our bel
   - Discord: arellak#0295
   - Telegram: [@arellak](https://t.me/arellak)
   - Twitter: [@4rell4k](https://twitter.com/4rell4k)
-  - StackOverflow: [nimble](https://stackoverflow.com/users/11818002/nimble)
+  - StackOverflow: [arellak](https://stackoverflow.com/users/11818002/arellak)
  
 <sub>You can contact me in German (native language) or English ([C2-Level](https://www.efset.org/cefr/c2/))</sub>
 
