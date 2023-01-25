@@ -8,7 +8,7 @@ My main focus in programming are computer games, how the math behind all our bel
 - 🔭 I’m currently working on
       - [Terraria Clone using Raylib](https://github.com/arellak/TerrariaClone)
 - ✨ Main/Strong languages: Java, C++
-- 📜 Other languages I'm familiar with: NodeJS
+- 📜 Other languages I'm familiar with: JavaScript, NodeJS, PHP
 - 🌱 I'm currently learning C++, Norwegian and a bit of Japanese
 - 💬 Other projects I really loved working on:
   - [The idea of creating a "World of Warcraft for Minecraft"](https://github.com/NimbleServer/NimbleServerPlugins)
