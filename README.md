@@ -17,7 +17,7 @@ My main focus in programming are computer games, how the math behind all our bel
   - [Creating basic GUI elements using Raylib and C++](https://github.com/arellak/NimbleGUI)
   - [My own implementation of the famous game Flappy Bird - using raylib](https://github.com/arellak/RaylibFlappyBird)
 - 📫 How to reach me:
-  - E-Mail: [nimble0@protonmail.com](mailto:nimble0@protonmail.com)
+  - E-Mail: [contact@arellak.de](mailto:contact@arellak.de)
   - Discord: arellak#0295
   - Telegram: [@arellak](https://t.me/arellak)
   - Twitter: [@4rell4k](https://twitter.com/4rell4k)
