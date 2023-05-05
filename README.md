@@ -21,6 +21,7 @@ My main focus in programming are computer games, how the math behind all our bel
   - Telegram: [@arellak](https://t.me/arellak)
   - Twitter: [@4rell4k](https://twitter.com/4rell4k)
   - StackOverflow: [arellak](https://stackoverflow.com/users/11818002/arellak)
+  - E-Mail: [contact@arellak.de](mailto:contact@arellak.de)
  
 <sub>You can contact me in German (native language) or English ([C2-Level](https://www.efset.org/cefr/c2/))</sub>
 
