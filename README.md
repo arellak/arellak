@@ -5,9 +5,9 @@ My main focus in programming is Web Development and AIs. So you already see that
 
 - 🔭 I’m currently working on
   - [Mukaji Chatbot using Markov Chains](https://github.com/arellak/mukaji_chat)
-- ✨ Main/Strong languages: Java, C++
-- 📜 Other languages I'm familiar with: JavaScript, NodeJS, PHP
-- 🌱 I'm currently learning C++, Norwegian and a bit of Japanese
+- ✨ Main/Strong languages: Java, NodeJS, JavaScript
+- 📜 Other languages I'm familiar with: PHP, C/C++
+- 🌱 I'm currently learning more NodeJS, Norwegian and a bit of Japanese
 - 💬 Other projects I really loved working on:
   - [Terraria Clone using Raylib](https://github.com/arellak/TerrariaClone)
   - [The idea of creating a "World of Warcraft for Minecraft"](https://github.com/NimbleServer/NimbleServerPlugins)
