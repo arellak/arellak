@@ -25,6 +25,8 @@ My main focus in programming currently is Web Development. So you already see th
 <sub>You can contact me in German (native language) or English ([C2-Level](https://www.efset.org/cefr/c2/))</sub>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arellak&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&bg_color=00000000&custom_title=arellak%27s%20Stats%20"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=arellak&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&bg_color=00000000&custom_title=arellak%27s%20Stats%20"></img><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arellak&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" style="margin: auto;"></img>
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arellak&label=Profile%20views&color=0e75b6&style=flat" alt="arellak" /> </p>
