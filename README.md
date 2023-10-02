@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 My name is Marcel and I'm 21 years old. Currently I'm studying Computer Science.<br>
-My main focus in programming currently is Web Development. So you already see that I seem to like pain.
-
+My main focus in programming currently is Web Development but also a little bit of Game Development in the past (and hopefully future). So you already see that I seem to like pain.
+Currently I'm working on:
+- [ElevenLabs API Wrapper](https://github.com/arellak/elevenlabs-wrapper) - a NodeJS wrapper for the [ElevenLabs](https://elevenlabs.io) API
+- ImitGuard - a centralized place to report people who imitate other people to get a better overview, which accounts are real and which are fake 
+---
 - ✨ Main/Strong languages: Java, NodeJS, JavaScript
 - 📜 Other languages I'm familiar with: PHP, C/C++
 - 🌱 I'm currently learning more NodeJS, Norwegian and a bit of Japanese
