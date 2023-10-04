@@ -27,8 +27,8 @@ Currently I'm working on:
  
 <sub>You can contact me in German (native language) or English ([C2-Level](https://www.efset.org/cefr/c2/))</sub>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arellak&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&bg_color=00000000&custom_title=arellak%27s%20Stats%20"></img><br>
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=arellak&count_private=false&include_all_commits=true&show_icons=true&theme=gotham&bg_color=00000000&custom_title=arellak%27s%20Stats"></img><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arellak&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" style="margin: auto;"></img>
 </p>
 
