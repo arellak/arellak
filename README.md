@@ -20,7 +20,6 @@ Currently I'm working on:
 - 📫 How to reach me:
   - Discord: @arellak
   - Telegram: [@arellak](https://t.me/arellak)
-  - Twitter: [@4rell4k](https://twitter.com/4rell4k)
   - StackOverflow: [arellak](https://stackoverflow.com/users/11818002/arellak)
   - Website: [https://arellak.de](https://arellak.de)
  
