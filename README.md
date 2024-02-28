@@ -23,7 +23,7 @@ Currently I'm working on:
   - StackOverflow: [arellak](https://stackoverflow.com/users/11818002/arellak)
   - Website: [https://arellak.de](https://arellak.de)
  
-<sub>You can contact me in German (native language) or English ([C2-Level](https://www.efset.org/cefr/c2/))</sub>
+<sub>You can contact me in German (native language) or English ([C1-Level](https://www.efset.org/cefr/c1/))</sub>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arellak&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" style="margin: auto;"></img>
