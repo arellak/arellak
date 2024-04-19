@@ -26,7 +26,7 @@ Currently I'm working on:
 <sub>You can contact me in German (native language) or English ([C1-Level](https://www.efset.org/cefr/c1/))</sub>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arellak&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" style="margin: auto;"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=arellak&show_icons=true&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" style="margin: auto;"></img>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arellak&label=Profile%20views&color=0e75b6&style=flat" alt="arellak" /> </p>
