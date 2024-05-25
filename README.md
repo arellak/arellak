@@ -19,6 +19,7 @@ Currently I'm working on:
   - [My own implementation of the famous game Flappy Bird - using raylib](https://github.com/arellak/RaylibFlappyBird)
 - 📫 How to reach me:
   - Discord: @arellak
+  - E-mail: [marcel@arellak.de](mailto:marcel@arellak.de)
   - Telegram: [@arellak](https://t.me/arellak)
   - StackOverflow: [arellak](https://stackoverflow.com/users/11818002/arellak)
   - Website: [https://arellak.de](https://arellak.de)
