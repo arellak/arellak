@@ -34,4 +34,4 @@ Currently I'm working on:
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://konachan.net/sample/d76486358c1222fd47447cda59907bb0/Konachan.com%20-%20372682%20sample.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/arellak/arellak/blob/master/Konachan.com%20-%20372682%20sample.jpg');]{x0000}$}
