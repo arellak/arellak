@@ -31,6 +31,3 @@ Currently I'm working on:
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arellak&label=Profile%20views&color=0e75b6&style=flat" alt="arellak" /> </p>
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/arellak/arellak/assets/27505801/2c68b485-dbf1-49c3-91c8-22a8035b3757');]{x0000}$}
