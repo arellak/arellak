@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marcel and I'm 22 years old. Currently I'm studying Computer Science.<br>
+My name is Marcel and I'm 23 years old. Currently I'm studying Computer Science.<br>
 My main focus in programming currently is Web Development but also a little bit of Game Development in the past (and hopefully future). So you already see that I seem to like pain.
 Currently I'm working on:
 - [ElevenLabs API Wrapper](https://github.com/arellak/elevenlabs-wrapper) - a NodeJS wrapper for the [ElevenLabs](https://elevenlabs.io) API
