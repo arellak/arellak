@@ -3,11 +3,11 @@
 My name is Marcel and I'm 23 years old. I'm a self employed software dev.<br>
 My main focus in programming currently is Web Development but also a little bit of Game Development in the past (and hopefully future). So you already see that I seem to like pain.
 Currently I'm working on:
-- [ElevenLabs API Wrapper](https://github.com/arellak/elevenlabs-wrapper) - a NodeJS wrapper for the [ElevenLabs](https://elevenlabs.io) API
+  - multiple projects that are not yet publicly disclosed but will soon be published (hopefully lol)
 ---
 - ✨ Main/Strong languages: Java, NodeJS, JavaScript
 - 📜 Other languages I'm familiar with: PHP, C/C++
-- 🌱 I'm currently learning more NodeJS, Norwegian and a bit of Japanese
+- 🌱 I'm currently learning more NodeJS and Russian
 - 💬 Other projects I really loved working on:
   - [Mukaji Chatbot using Markov Chains](https://github.com/arellak/mukaji_chat)
   - [Terraria Clone using Raylib](https://github.com/arellak/TerrariaClone)
