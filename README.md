@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marcel and I'm 23 years old. I'm a self employed software dev.<br>
+My name is Marcel and I'm 24 years old. I'm a self employed software dev.<br>
 My main focus in programming currently is Web Development but also a little bit of Game Development in the past (and hopefully future). So you already see that I seem to like pain.
 Currently I'm working on:
   - multiple projects that are not yet publicly disclosed but will soon be published (hopefully lol)
