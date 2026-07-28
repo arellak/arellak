@@ -3,6 +3,9 @@
 My name is Marcel and I'm 24 years old. I'm a self employed software dev.<br>
 My main focus in programming currently is Web Development but also a little bit of Game Development in the past (and hopefully future). So you already see that I seem to like pain.
 Currently I'm working on:
+  - [nachweisfertig](https://nachweisfertig.de)
+  - [Ordinus](https://ordinus.io)
+  - [Web Agency](https://kremer-digital.de)
   - multiple projects that are not yet publicly disclosed but will soon be published (hopefully lol)
 ---
 - ✨ Main/Strong languages: Java, NodeJS, JavaScript
